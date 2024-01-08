@@ -1,0 +1,24 @@
+[
+        {
+                "name": "Ukraine",
+                "leaderName": "Zelensky",
+		"adjective": ["Ukrainian"],
+		"preferredVictoryType": "Scientific",
+		"outerColor": [239, 180, 0],
+		"innerColor": [0, 0, 0],
+		"uniqueName": "Media Strategy",
+		"uniques": ["[+100 Gold] <when at war>","Free [Modern Armor] appears <when at war> <every [9] turns>","Free [Jet Fighter] appears <when at war> <every [7] turns>","Free [Mobile SAM] appears <when at war> <every [8] turns>"],
+		"cities": ["Kyiv","Dnipro","Odesa"],
+        },
+        {
+                "name": "Russia",
+		"leaderName": "Putin",
+		"adjective": ["Russian"],
+		"preferredVictoryType": "Scientific",
+		"outerColor": [239, 180, 0],
+		"innerColor": [0, 0, 0],
+		"uniqueName": "Economic Sanctions",
+		"uniques": ["[-50]% [Gold] [in all cities]","[-10 Happiness] [in all cities]"],
+		"cities": ["Luhansk","Donetsk","Rostov","Mariupol","Crimea"],
+        }
+]
