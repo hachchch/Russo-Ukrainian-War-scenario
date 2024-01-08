@@ -21,6 +21,6 @@
 		"uniqueName": "Economic Sanctions",
 		"uniques": ["[-50]% [Gold] [in all cities]","[-10 Happiness] [in all cities]",
 		"Starts with [Telecommunications]","Starts with [Mobile Tactics]","Starts with [Advanced Ballistics]","Starts with [Satellites]","Starts with [Robotics]","Starts with [Lasers]","Starts with [Stealth]","Provides [50] [Oil]","Provides [30] [Aluminum]","Provides [10] [Uranium]"],
-		"cities": ["Luhansk","Donetsk","Rostov","Mariupol","Crimea","Chernobyl"],
+		"cities": ["Luhansk","Donetsk","Rostov","Mariupol","Crimea","Kharkiv","Chernobyl"],
         }
 ]
