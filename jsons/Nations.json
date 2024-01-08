@@ -8,7 +8,7 @@
 		"innerColor": [65, 78, 211],
 		"uniqueName": "Media Strategy",
 		"uniques": ["[+100 Gold] <when at war>","Free [Modern Armor] appears <when at war> <every [9] turns>","Free [Jet Fighter] appears <when at war> <every [7] turns>","Free [Mobile SAM] appears <when at war> <every [8] turns>",
-		"Starts with [Telecommunications]","Starts with [Mobile Tactics]","Starts with [Advanced Ballistics]","Starts with [Satellites]","Starts with [Robotics]","Starts with [Lasers]","Starts with [Globalization]"],
+		"Starts with [Telecommunications]","Starts with [Mobile Tactics]","Starts with [Advanced Ballistics]","Starts with [Satellites]","Starts with [Robotics]","Starts with [Lasers]","Starts with [Globalization]","Provides [30] [Oil]","Provides [20] [Aluminum]","Provides [1] [Uranium]"],
 		"cities": ["Kyiv","Dnipro","Odesa","Chernobyl","Zaporizhzhia","Lviv","Kherson"],
         },
         {
@@ -20,7 +20,7 @@
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Economic Sanctions",
 		"uniques": ["[-50]% [Gold] [in all cities]","[-10 Happiness] [in all cities]",
-		"Starts with [Telecommunications]","Starts with [Mobile Tactics]","Starts with [Advanced Ballistics]","Starts with [Satellites]","Starts with [Robotics]","Starts with [Lasers]","Starts with [Stealth]"],
+		"Starts with [Telecommunications]","Starts with [Mobile Tactics]","Starts with [Advanced Ballistics]","Starts with [Satellites]","Starts with [Robotics]","Starts with [Lasers]","Starts with [Stealth]","Provides [50] [Oil]","Provides [30] [Aluminum]","Provides [10] [Uranium]"],
 		"cities": ["Luhansk","Donetsk","Rostov","Mariupol","Crimea","Chernobyl"],
         }
 ]
