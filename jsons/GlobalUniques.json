@@ -1,0 +1,6 @@
+{
+    "name": "Global uniques",
+    "uniques": [
+	    "[-1 Science, +1 Gold] per every [1] [Science]","[-1 Culture, +1 Gold] per every [1] [Culture]","[-1 Faith, +1 Gold] per every [1] [Faith]","[1] Unit Supply per [2] population [in all cities]","[+4 Gold, +5 Production] [in all cities]","[+16 Gold, +20 Happiness] [in capital]","[+1000]% Gold cost of acquiring tiles [in all cities]","[+2000]% Culture cost of natural border growth [in all cities]","Cannot build [Settler] units","Nullifies Growth [in all cities]"
+    ]
+}
