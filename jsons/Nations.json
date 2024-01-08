@@ -3,7 +3,7 @@
                 "name": "Ukraine",
                 "leaderName": "Zelensky",
 		"adjective": ["Ukrainian"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Cultural",
 		"outerColor": [255, 255, 40],
 		"innerColor": [65, 78, 211],
 		"uniqueName": "Media Strategy",
